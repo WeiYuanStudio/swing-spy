@@ -13,7 +13,7 @@ public class FloatingWindow extends JWindow {
     private static final LayoutManager LAYOUT = new BorderLayout();
     public static final Color BG_COLOR = new Color(255, 255, 255, 204);
 
-    private Timer autoCloseTimer;
+    private final Timer autoCloseTimer;
 
     public FloatingWindow(String text, Point location, String clipboardText) {
         // 1. 基础窗口设置
