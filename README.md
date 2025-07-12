@@ -1,6 +1,6 @@
 # SWING-SPY
 
-![SWING-SPY](https://imgur.com/gRUIRM7)
+![](https://p.sda1.dev/25/63fc14cc288cbf096fa5afd591a8b09e/idea64_KQEGEVVAm0.png)
 一款基于java-agent，用于调试屎山Java Swing代码时快速定位由用户自己实现的UI类(用户基于java.awt.Component开发的子类)的工具
 
 这年头还在写Swing，这辈子有了
